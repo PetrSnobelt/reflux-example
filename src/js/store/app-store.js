@@ -1,5 +1,5 @@
-var React = require('react'),
-	Reflux = require('reflux'),
+//var React = require('react'),
+var 	Reflux = require('reflux'),
 	Actions = require('../actions/app-actions.js');
 
 // Create store with tasks
